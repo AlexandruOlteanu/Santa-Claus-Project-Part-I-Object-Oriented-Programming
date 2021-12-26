@@ -18,9 +18,9 @@ cat mai bine organizat pentru viitore adaugari de functionalitati in
 cadrul claselor.
     Din punct de vedere al solutiei propriu zise am trecut prin fiecare 
 test, am parsat datele de input si apoi am inceput desfasurarea rundelor.
-Fiecare runda a fost mai intai rezolvata (cu exceptia rundei 0) si apoi 
+Fiecare runda a fost mai intai updatata (cu exceptia rundei 0) si apoi 
 rezolvata. Update-urile le-am facut prin functii separate, din nou, pentru
-lizibilitate si mai usoara intelegere a codului. In urma schimbarilor 
+eficienta si mai usoara intelegere a codului. In urma schimbarilor 
 corespunzatoare aplicate copiilor in urma fiecarei runde am calculat 
 bugetul oferit fiecaruia si apoi lista de cadouri cumparate in anul respectiv
 dupa instructiunile cerintei. Pentru fiecare runda am adaugat datele intr-un 
